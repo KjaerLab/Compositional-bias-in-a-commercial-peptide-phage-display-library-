@@ -1,1 +1,1 @@
-# Compositional-bias-in-a-commercial-peptide-phage-display-library-
+# Python and Matlab code for the paper: Compositional bias in a commercial peptide phage display library: Non-random sequence representation at DNA, amino acid, and peptide levels, coupled with a high abundance of wild-type clones
